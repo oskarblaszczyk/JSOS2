@@ -1,0 +1,23 @@
+{
+  "firstName": "Adam",
+  "lastName": "Nowak",
+  "age": 33,
+  "isMarried": true,
+  "isWise" : false,
+  "hobbies": [
+    "alkohol",
+    "kosciol"
+  ],
+  "kids": [
+    {
+      "firstName": "Krzys",
+      "lastName": "Nowak",
+      "age": 3
+    },
+    {
+      "firstName": "Zuzia",
+      "lastName": "Nowak",
+      "age": 4
+    }
+  ]
+}
